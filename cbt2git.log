@@ -1,0 +1,16 @@
+2023-04-03 00:52:55.289100 - Initialized conversion of CBT518
+2023-04-03 00:52:55.364859 - Received CBT.V504.FILE518.PDS from FILE518.XMI 
+2023-04-03 00:52:55.367349 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:52:55.368342 - Found $$README.txt (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/$$README
+2023-04-03 00:52:55.369586 - Found @FILE518.txt (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/@FILE518
+2023-04-03 00:52:55.370664 - Found AUXBOOS$.txt (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/AUXBOOS$
+2023-04-03 00:52:55.371685 - Found AUXBOOST.txt (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/AUXBOOST
+2023-04-03 00:52:55.372663 - Found HZSRACF.txt (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/HZSRACF
+2023-04-03 00:52:55.373678 - Found IEFUSIG.txt (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/IEFUSIG
+2023-04-03 00:52:55.374607 - Found MAKEXMI.rexx (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/MAKEXMI
+2023-04-03 00:52:55.375554 - Found MAKEXMIU.rexx (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/MAKEXMIU
+2023-04-03 00:52:55.376575 - Found ME.txt (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/ME
+2023-04-03 00:52:55.377597 - Found NOTME.txt (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/NOTME
+2023-04-03 00:52:55.378545 - Found PUTPARM.txt (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/PUTPARM
+2023-04-03 00:52:55.379494 - Found SC.txt (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/SC
+2023-04-03 00:52:55.380412 - Found SUBX.rexx (text/plain) in CBT.V504.FILE518.PDS, moved to PDS/SUBX
